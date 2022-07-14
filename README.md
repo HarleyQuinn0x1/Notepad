@@ -1,4 +1,4 @@
-# Notepad
+# Notepad (https://web-coder.xyz/notepad)
 ## Note/code sharing application with PHP
 
 * Create database named "notepad";
